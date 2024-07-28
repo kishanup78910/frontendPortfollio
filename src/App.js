@@ -8,11 +8,13 @@ import Education from './pages/Education/Education';
 import WorkExperiance from './pages/WordExp/WorkExperiance';
 import Contact from './pages/Contact/Contact';
 import ScrollToTop from "react-scroll-to-top";
+import MobileNav from './components/mobile-nav/MobileNav';
 
 
 function App() {
   return (
     < >
+    <MobileNav/>
    <Layout/>
    <div className='container'>
    <About/>

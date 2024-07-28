@@ -31,3 +31,20 @@
     transition: 1s;
 }
 
+@media (max-width:600px){
+    .container.techStack{
+        margin: 0;
+        padding: 0;
+        margin-top: 30px;
+    }
+
+    .container.techStack h2{
+        padding-top: 20px;
+    }
+
+    .container.techStack hr{
+        width: 280px;
+        margin-bottom: 10px;
+
+    }
+ }

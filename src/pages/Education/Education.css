@@ -1,25 +1,27 @@
-.container.education{
-    padding-left: 140px;
-    margin: 50px 0px;
-    background-color: rgba(209, 200, 200, 0.342);
- 
- }
- 
- 
- .container.education hr{
-     color: #138781;
-     width: 400px;
-     margin: 10px auto;
- }
- 
- .container.education h2{
-     color: #138781;
-     font-weight: bold
- }
- .education .vertical-timeline-element-title{
-    color: #138781;
- }
+.container.education {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 50px auto;
+  background-color: rgba(209, 200, 200, 0.342);
+  max-width: 1200px;
+}
 
- .education .vertical-timeline-element-subtitle{
-    color: #1e1e2c;
- }
+.container.education hr {
+  color: #138781;
+  width: 100%;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.container.education h2 {
+  color: #138781;
+  font-weight: 500;
+  font-family: cursive;
+}
+
+@media (max-width: 600px) {
+  .container.education {
+    padding: 10px;
+    margin-top: 30px;
+  }
+}

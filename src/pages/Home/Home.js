@@ -20,8 +20,8 @@ const Home = () => {
           </h1>
 
           <div className='home-buttons'>
-            <button className='btn btn-hire'>Hire Me</button>
-            <a href={Resume} download="Kishan_Upadhyay_Resume.pdf" className='btn btn-cv'>Download My Resume</a>
+          <a className='btn btn-hire' href='https://api.whatsapp.com/send?phone=916307997224' target='_blank' rel='noopener noreferrer'>Hire Me</a>
+            <a href={Resume} download="Kishan_Upadhyay_Resume.pdf" className='btn btn-cv'> My Resume</a>
           </div>
         </div>
 
