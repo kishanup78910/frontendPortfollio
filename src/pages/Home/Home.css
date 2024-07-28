@@ -1,0 +1,57 @@
+.container-fluid.home-container {
+    height: 300px;
+    color: white;
+    padding-left: 150px;
+}
+
+.home-content h2{
+    padding: 5px;
+    padding-top: 70px;   
+    /* margin-left: 150px; */
+
+    
+
+}
+
+
+.home-content h1{
+    color: #e0b50f;
+    padding-top: 5px;   
+    /* margin-left: 150px; */
+
+}
+
+
+.home-buttons{
+    /* margin-left: 150px; */
+    margin-top: 30px;
+}
+
+.home-buttons .btn-hire{
+    background-color: #3b8ff3;
+    color: white;
+    width: 160px;
+}
+
+.home-buttons .btn-hire:hover{
+    color: #3b8ff3;
+    background-color: white;
+    width: 200px;
+    transition: 1s;
+}
+
+.home-buttons .btn-cv{
+    background-color: #f29f67;
+    color: white;
+  margin-left: 15px;
+  width: 200px;
+
+}
+
+.home-buttons .btn-cv:hover{
+    color: #3b8ff3;
+    opacity: 80%;
+    background-color: white;
+    width: 240px;
+    transition: 1s;
+}
