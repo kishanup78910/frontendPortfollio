@@ -18,7 +18,7 @@ const WorkExperiance = () => {
     className="vertical-timeline-element--work"
     contentStyle={{ background: 'white', color: 'black' }}
     contentArrowStyle={{ borderRight: '7px solid  gray' }}
-    date="Jan 2023 - Present"
+    date="Feb 2024 - July 2024"
     iconStyle={{ background: '#138781', color: '#fff' }}
     icon={<RiReactjsLine />}
   >
