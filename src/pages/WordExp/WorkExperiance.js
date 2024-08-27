@@ -22,7 +22,7 @@ const WorkExperiance = () => {
     iconStyle={{ background: '#138781', color: '#fff' }}
     icon={<RiReactjsLine />}
   >
-    <h3 className="vertical-timeline-element-title">VideoStori</h3>
+    <h3 className="vertical-timeline-element-title">Keen Captain Analytics</h3>
     <h4 className="vertical-timeline-element-subtitle">Software Developer</h4>
     <p>
        Responsible for development of new feature in company website using reactjs
