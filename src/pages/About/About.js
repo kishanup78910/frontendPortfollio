@@ -11,7 +11,7 @@ const About = () => {
             <h1>About Me</h1>
             <p>
       
-Results-driven Technical Consultant with experience in enterprise software integration and implementation, contributing to 6+ client projects across diverse international markets. Demonstrated expertise in delivering Oracle NetSuite solutions for clients.
+Results-driven Technical Consultant with experience in enterprise software integration and implementation, contributing to 6+ client projects across diverse Indian markets. Demonstrated expertise in delivering Oracle NetSuite solutions for clients.
 Proficient in JavaScript development with front-end and back-end technologies. Currently specializing in Tax Technology Solutions, providing strategic technical consulting and innovative approaches to complex tax compliance and automation challenges.
 
             </p>
