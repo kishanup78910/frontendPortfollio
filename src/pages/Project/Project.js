@@ -10,7 +10,7 @@ const Project = () => {
         <p className='mb-3 text-center'>👉 Here are my top recent projects with live links and source code</p>
 
         <div className='row mt-5 mb-5' id='ads'>
-          <div className='col-md-4 '>
+          <div className='col-md-3 '>
             <div className='card rounded'>
               <div className='card-image'>
                 <span className='card-notify-badge'>Full Stack</span>
@@ -33,7 +33,7 @@ const Project = () => {
               </div>
             </div>
           </div>
-          <div className='col-md-4'>
+          <div className='col-md-3'>
             <div className='card rounded'>
               <div className='card-image'>
                 <span className='card-notify-badge'>Mobile App</span>
@@ -55,7 +55,7 @@ const Project = () => {
               </div>
             </div>
           </div>
-          <div className='col-md-4'>
+          <div className='col-md-3'>
             <div className='card rounded'>
               <div className='card-image'>
                 <span className='card-notify-badge'>Full Stack</span>
