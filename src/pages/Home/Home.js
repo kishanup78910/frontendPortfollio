@@ -3,8 +3,6 @@ import './Home.css';
 import Typewriter from 'typewriter-effect';
 import Resume from '../../assets/docs/kishan_Upadhyay_Resume.pdf';
 
-
-
 const Home = () => {
   return (
     <>
