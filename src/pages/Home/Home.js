@@ -12,7 +12,7 @@ const Home = () => {
           <h1>
             <Typewriter
               options={{
-                strings: ['Netsuite Developer',"Tech Consultant"],
+                strings: ["Netsuite Developer","Tech Consultant"],
                 autoStart: true,
                 loop: true,
               }}
