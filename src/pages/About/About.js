@@ -10,9 +10,10 @@ const About = () => {
           <div className='col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content'>
             <h1>About Me</h1>
             <p>
-            I am a passionate and dedicated software developer with a strong foundation in problem-solving and one year of experience in frontend development. With the ability to join a team immediately, I am confident in my ability to contribute effectively.
-I possess a solid understanding of HTML, CSS, JavaScript, and ReactJS, along with beginner-level knowledge of backend development using the MERN stack and Flutter. I am eager to bring my technical skills and enthusiasm to innovative projects.
-Thank you for visiting my portfolio. Please take a moment to review my resume, attached for your convenience.
+      
+Results-driven Technical Consultant with experience in enterprise software integration and implementation, contributing to 6+ client projects across diverse international markets. Demonstrated expertise in delivering Oracle NetSuite solutions for clients.
+Proficient in JavaScript development with front-end and back-end technologies. Currently specializing in Tax Technology Solutions, providing strategic technical consulting and innovative approaches to complex tax compliance and automation challenges.
+
             </p>
           </div>
 
